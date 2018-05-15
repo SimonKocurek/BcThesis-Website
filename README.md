@@ -8,4 +8,4 @@ Leader:  **Peter Gurský**
 Consultant: **Martin Večeřa**
 
 ## About
-[Presentation website](s.ics.upjs.sk/~skocurek)
+[Presentation website](https://s.ics.upjs.sk/~skocurek/)
