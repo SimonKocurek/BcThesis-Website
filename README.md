@@ -6,6 +6,3 @@ working on the same file, with frequent or long disconnects.
 Author: **Šimon Kocúrek**  
 Leader:  **Peter Gurský**  
 Consultant: **Martin Večeřa**
-
-## About
-[Presentation website](https://s.ics.upjs.sk/~skocurek/)
