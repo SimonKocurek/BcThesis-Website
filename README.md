@@ -4,5 +4,8 @@ working on the same file, with frequent or long disconnects.
 
 ## Credits
 Author: **Šimon Kocúrek**  
-Leader:  **Peter Gurský**
+Leader:  **Peter Gurský**  
 Consultant: **Martin Večeřa**
+
+## About
+[Presentation website](s.ics.upjs.sk/~skocurek)

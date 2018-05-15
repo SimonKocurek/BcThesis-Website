@@ -2581,7 +2581,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .banner-right .form-wrap {
   padding: 40px 30px;
-  text-align: center;
 }
 
 .banner-right .form-wrap .form-control {
@@ -4493,4 +4492,15 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .footer-text a, .footer-text i {
   color: #f8b600;
+}
+
+.plane {
+  background: white;
+  padding: 7px;
+  color: #222222 !important;
+}
+
+.home-detail {
+  padding: 55px 30px;
+  height: 425px;
 }
