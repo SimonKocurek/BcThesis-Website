@@ -1,2 +1,4 @@
 .idea/
 bakalarka.iml
+**target/
+**node_modules/
